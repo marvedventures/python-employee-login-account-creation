@@ -33,6 +33,8 @@ This is a Employee Account Creation using map function, list comprehensions, dic
 3. Run the program — python main.py
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/108392678/236618483-987e7ebe-a2bf-428c-9eda-db30cf1965fd.png)
+
 
 ### Links
 

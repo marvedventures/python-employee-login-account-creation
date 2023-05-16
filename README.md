@@ -38,7 +38,7 @@ This is a Employee Account Creation using map function, list comprehensions, dic
 
 ### Links
 
-- Github: [Code](https://github.com/marvedventures/python-employee-login-account-creation)
+- Github: [Code](https://github.com/marventures/python-employee-login-account-creation)
 
 ## My process
 
@@ -100,5 +100,5 @@ def map_id_to_initial(employee_list):
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
+- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
+- Twitter - [@marventures11](https://www.twitter.com/marventures11)
